@@ -1,0 +1,4 @@
+interface:
+  display_name: "USER-EXPI"
+  short_description: "Evidence-led psychology for usable interfaces"
+  default_prompt: "Use $user-expi to research, design, and implement this interface around real user behavior."
